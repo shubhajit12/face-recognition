@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(lightgreen,white,lightgreen,rgb(195, 218, 104));
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+#camera{
+    border: 4px white solid;
+    width: 300px;
+    height: 300px;
+}
+.capture,.identify{
+    font-size: 100%;
+}
